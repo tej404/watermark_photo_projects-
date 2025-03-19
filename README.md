@@ -2,10 +2,10 @@
 
 
 
-<h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Govind kumawat </h1>
+<h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Tej  </h1>
 <p align="center">
 </p>
-<h3 align="center">🚩 A Data Scientist  From India. 🚩
+<h3 align="center">🚩 A Devops   From India. 🚩
 
 
 
